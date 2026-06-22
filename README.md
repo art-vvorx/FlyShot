@@ -6,6 +6,13 @@
 ## Загрузить приложение
 
 **Для Android:**  
-[Скачать APK](https://github.com/art-vvorx/Deary/raw/refs/heads/main/releases/Deary.apk)
+[Скачать APK](https://github.com/art-vvorx/FlyShot/raw/refs/heads/main/releases/flyshot.apk)
 
 ---
+
+## Скриншоты
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/art-vvorx/FlyShot/refs/heads/main/screenshots/flyshot_boss-461x1024.webp" width="400">
+  <img src="https://raw.githubusercontent.com/art-vvorx/FlyShot/refs/heads/main/screenshots/flyshot_bots-768x1707.webp" width="400">
+</div>
